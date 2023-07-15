@@ -16,7 +16,7 @@
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="atualizar" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/enriqSilv/ebook-Wich-ChatGPT-midjourney/blob/main/Ebook%20-%20Marketing%20Cloud%20Devs.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
