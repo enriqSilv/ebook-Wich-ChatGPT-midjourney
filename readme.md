@@ -3,7 +3,7 @@
 
 <p align="center">
 <img 
-    src="./assets/My project-1.png"
+    src="./assets/My project-1.png](https://github.com/enriqSilv/ebook-Wich-ChatGPT-midjourney/blob/main/Assets/My%20project-1.png"
     width="400"  
 />
 </p>
